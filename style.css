@@ -186,13 +186,13 @@
     }
 }
 
-@media (max-width: 344px) {
+@media (max-width: 1080px) {
     #boxGrid {
         grid-template-columns: 50px 50px 50px;
         row-gap: 5px;
         column-gap: 5px;
         height: 20vh;
-        width: 45vw;
+        width: 40vw;
     }
 
     .box {
