@@ -37,6 +37,24 @@
     transition: all 0.5s;
 }
 
+#resetButton {
+    margin-top: 100px;
+    background-color: #996514;
+    border: none;
+    font-size: 30px;
+    color: #B5B35D;
+    padding: 5px 10px 5px 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.5s;
+}
+
+#resetButton:hover {
+    padding: 7px 12px 7px 12px;
+    border-radius: 12px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.5);
+}
+
 .button:hover {
     padding: 7px 12px 7px 12px;
     border-radius: 12px;
@@ -187,6 +205,21 @@
 }
 
 @media (max-width: 1080px) {
+    #boxGrid {
+        grid-template-columns: 50px 50px 50px;
+        row-gap: 5px;
+        column-gap: 5px;
+        height: 20vh;
+        width: 60vw;
+    }
+
+    .box {
+        height: 50px;
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1100px) {
     #boxGrid {
         grid-template-columns: 50px 50px 50px;
         row-gap: 5px;
