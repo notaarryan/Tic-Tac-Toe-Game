@@ -110,7 +110,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -125,7 +125,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -140,7 +140,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -155,7 +155,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -170,7 +170,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -185,7 +185,7 @@
 
     .box {
         height: 110px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -200,7 +200,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -215,7 +215,7 @@
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
 
@@ -225,11 +225,11 @@
         row-gap: 5px;
         column-gap: 5px;
         height: 20vh;
-        width: 60vw;
+        width: 50vw;
     }
 
     .box {
         height: 50px;
-        font-size: 20px;
+        font-size: 30px;
     }
 }
