@@ -32,6 +32,7 @@ const reset = () => {
   turn = "X";
   box.forEach((val) => {
     val.innerText = "";
+    val.disabled = false;
   });
 };
 
